@@ -1,4 +1,7 @@
 package gloryroad;
+/*
+TestNG框架注解进行数据驱动
+ */
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
